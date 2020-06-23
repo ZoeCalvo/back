@@ -14,6 +14,7 @@ Flask-Cors==3.0.8
 Flask-RESTful==0.3.8
 Flask-SQLAlchemy==2.4.1
 googletrans==2.4.0
+gunicorn==20.0.4
 httplib2==0.17.0
 idna==2.8
 imageio==2.1.2
